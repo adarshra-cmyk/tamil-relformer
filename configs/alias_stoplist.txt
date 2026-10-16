@@ -1,0 +1,86 @@
+# Single-word Wikidata aliases that are not used as names of that entity in
+# Tamil Wikipedia. Reviewed by hand from the 168 single-word aliases that occur
+# more than 200 times (runs/matcher_cmp/common_aliases.txt); real short names
+# and spelling variants (இந்திய, கோவை, நேரு, லண்டன், நாசா) were kept.
+# name  # what it is / what it links to
+# A leading ~ removes the name only where it is an alias, not an entity's own
+# label (மலாக்கா is Malacca's label but a wrong alias of Málaga).
+# common words
+கட்சி	# "party"
+பெண்	# "woman"
+உலகம்	# "world" -> Earth
+நிலம்	# "land" -> Earth
+பூமி	# "earth", generic
+மாகாணம்	# "province" -> Eastern Province
+மேலே	# "above" -> Malé
+தானே	# "oneself" -> Thane
+பாலை	# "desert" -> Palakkad
+குடியேற்றம்	# "settlement" -> Gudiyatham
+கொடை	# "gift" -> Kodaikanal
+புகார்	# "complaint" -> Poompuhar
+ஆள்	# "person"
+பாக்கு	# "areca nut" -> Baku
+உடையவர்	# "owner" -> Ramanuja
+கர்னல்	# "colonel" -> Karnal
+அண்ணா	# "elder brother" -> C. N. Annadurai
+கலைஞர்	# "artist" -> M. Karunanidhi
+அக்னி	# "fire"
+புரி	# verb stem "do / understand" -> Puri
+பூரி	# food -> Puri
+சாகா	# "saga"
+ஸ்டோன்	# "stone"
+# alias of the wrong entity
+~மலாக்கா	# Malacca -> Málaga
+~பர்மா	# Burma -> Parma
+~ஆல்பா	# "alpha" -> Scotland
+~சாரா	# -> Sierra
+~கெய்ரோ	# Cairo -> another entity
+~கர்ணன்	# Karna -> Lakshmikarna
+~சரண்யா	# -> Sandhya
+~வாணி	# -> Khammam
+# ambiguous: many people or bodies share the name
+~அலி
+~டேவிட்
+~சங்கர்
+~பவுல்
+~சுந்தரம்
+~யோசேப்பு
+~முத்தையா
+~ராஜேந்திரன்
+~ரவிச்சந்திரன்
+~ரஹ்மான்
+~சிவா
+~மகாதேவன்
+~குலோத்துங்கன்
+~அண்ணாமலை
+~ராக்கி
+~காங்கிரஸ்
+~காங்கிரசு
+~சிபிஐ
+# entity labels that are common words
+தீவு	# "island" -> Theevu (Chennai)
+நடிகர்	# "actor"
+நடிகை	# "actress"
+பட்டம்	# "degree, title" -> Pattam
+ஊராட்சி	# "village council"
+கான்	# "Khan" title
+# common words marked as entities in the clean_v1 round (annotator notes)
+வெற்றி	# "victory"
+வருவாய் கிராமம்	# "revenue village"
+ஊர்	# "town, village"
+அரசு	# "government"
+மையம்	# "centre"
+போட்டி	# "competition"
+புகழ்	# "fame"
+போர்	# "war"
+திரை	# "screen"
+சிற்பி	# "sculptor"
+பயணம்	# "journey"
+வடக்கு	# "north"
+பேரரசு	# "empire"
+அரச	# "royal"
+அங்கம்	# "part, limb"
+கோல்	# "stick, goal"
+கிராம பஞ்சாயத்து	# "village panchayat"
+பழைய நகரம்	# "old town"
+முதலமைச்சர்	# "chief minister"

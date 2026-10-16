@@ -1,0 +1,19 @@
+{
+  "_note": "Draft v0 inventory for the pilot. Finalize from corpus counts and pilot agreement (plan 5.2). subj/obj are entity types used for markers and for NO_RELATION candidate generation.",
+  "relations": [
+    {"label": "PER:BIRTH_PLACE",   "subj": "PERSON",       "obj": "LOCATION",     "wikidata": ["P19"]},
+    {"label": "PER:DEATH_PLACE",   "subj": "PERSON",       "obj": "LOCATION",     "wikidata": ["P20"]},
+    {"label": "PER:RESIDENCE",     "subj": "PERSON",       "obj": "LOCATION",     "wikidata": ["P551"]},
+    {"label": "PER:NATIONALITY",   "subj": "PERSON",       "obj": "LOCATION",     "wikidata": ["P27"]},
+    {"label": "PER:EDUCATED_AT",   "subj": "PERSON",       "obj": "ORGANIZATION", "wikidata": ["P69"]},
+    {"label": "PER:EMPLOYER",      "subj": "PERSON",       "obj": "ORGANIZATION", "wikidata": ["P108"]},
+    {"label": "PER:MEMBER_OF",     "subj": "PERSON",       "obj": "ORGANIZATION", "wikidata": ["P102", "P463", "P54"]},
+    {"label": "PER:SPOUSE",        "subj": "PERSON",       "obj": "PERSON",       "wikidata": ["P26"]},
+    {"label": "PER:PARENT",        "subj": "PERSON",       "obj": "PERSON",       "wikidata": ["P22", "P25"]},
+    {"label": "PER:SIBLING",       "subj": "PERSON",       "obj": "PERSON",       "wikidata": ["P3373"]},
+    {"label": "ORG:HEADQUARTERS",  "subj": "ORGANIZATION", "obj": "LOCATION",     "wikidata": ["P159"]},
+    {"label": "ORG:FOUNDED_BY",    "subj": "ORGANIZATION", "obj": "PERSON",       "wikidata": ["P112"]},
+    {"label": "LOC:LOCATED_IN",    "subj": "LOCATION",     "obj": "LOCATION",     "wikidata": ["P131"]},
+    {"label": "LOC:COUNTRY",       "subj": "LOCATION",     "obj": "LOCATION",     "wikidata": ["P17"]}
+  ]
+}

@@ -1,0 +1,100 @@
+{"item_id": "h001", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h002", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h003", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h004", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h005", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h006", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h007", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h008", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h009", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "Otherwise NO_RELATION; E2 is part of the longer name Prayagraj Central Jail"}
+{"item_id": "h010", "label": "PER:RESIDENCE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h011", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Italian brand; ORG-nationality not in inventory"}
+{"item_id": "h012", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h013", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h014", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h015", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Residence sentence is about Daniel Brown; E1 mention is a different sentence part"}
+{"item_id": "h016", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h017", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h018", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h019", "label": "PER:DEATH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h020", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h021", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h022", "label": "ORG:FOUNDED_BY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h023", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h024", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h025", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h026", "label": "PER:RESIDENCE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h027", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h028", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h029", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": "Also grew up there"}
+{"item_id": "h030", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Teacher at the academy in Maine; E2 not the employer"}
+{"item_id": "h031", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Education completed in Chennai (city, not an institution)"}
+{"item_id": "h032", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h033", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": "Candidate of TNA, membership implied"}
+{"item_id": "h034", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h035", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h036", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h037", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h038", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h039", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h040", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h041", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h042", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h043", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Born at Pallikunnu near Kannur, not in Kannur"}
+{"item_id": "h044", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h045", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h046", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h047", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h048", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h049", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": "Former IAS officer; also joined BJP"}
+{"item_id": "h050", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h051", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "E1 is parent of E2, sentence names Shahaji as husband/father; no listed label"}
+{"item_id": "h052", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h053", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": "Party leader"}
+{"item_id": "h054", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h055", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h056", "label": "ORG:FOUNDED_BY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h057", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": "Brahma created Marichi (mind-born son)"}
+{"item_id": "h058", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Education began in Moscow (city)"}
+{"item_id": "h059", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h060", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": "Leader of Shiv Sena MLAs, membership implied"}
+{"item_id": "h061", "label": "PER:RESIDENCE", "span_ok": "yes", "type_ok": "yes", "notes": "Based in Mumbai"}
+{"item_id": "h062", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h063", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h064", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Adjective modifies state Jharkhand, not the person"}
+{"item_id": "h065", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h066", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h067", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h068", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h069", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h070", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h071", "label": "ORG:FOUNDED_BY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h072", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h073", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": "Village in Thrissur district, Kerala"}
+{"item_id": "h074", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h075", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h076", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "Otherwise PER:EDUCATED_AT; correct span is the full name கொல்கத்தாவின் மாநிலப் பல்கலைகழகத்திலும்"}
+{"item_id": "h077", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "Otherwise NO_RELATION; Budhan here is the planet, not a person"}
+{"item_id": "h078", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h079", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h080", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Kolkata is the location of the school, not the employer"}
+{"item_id": "h081", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h082", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": "Wedding photos"}
+{"item_id": "h083", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h084", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h085", "label": "PER:DEATH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h086", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h087", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h088", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h089", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": "State president of BJP"}
+{"item_id": "h090", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h091", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h092", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Studied at a college in Chennai; city is not the institution"}
+{"item_id": "h093", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h094", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h095", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h096", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h097", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h098", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h099", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Minister in BJP government; membership not stated"}
+{"item_id": "h100", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}

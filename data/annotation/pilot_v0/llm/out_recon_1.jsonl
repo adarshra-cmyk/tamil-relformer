@@ -1,0 +1,115 @@
+{"item_id": "p0303", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name before it (v0.1 surname rule); correct: நரசிம்மராச உடையார்."}
+{"item_id": "p0306", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E2 part of club name கிளப் அமெரிக்கா (v0.1 part-of-longer-name); E1 Nike is a company = ORGANIZATION."}
+{"item_id": "p0313", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "Leninism is an idea, none of the types (v0.1 type rule)."}
+{"item_id": "p0315", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a culture, not LOCATION."}
+{"item_id": "p0323", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 கோயிலாகும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0329", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 கடவுளுக்கு is a common noun (v0.1 common-noun rule); named goddess is கி."}
+{"item_id": "p0331", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 தலைமைச் செயலாளர் is a role, a common noun (v0.1 common-noun rule, span changed); not LOCATION."}
+{"item_id": "p0333", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 பீரேன் சிங் is the v0.1 surname example; E2 BJP is a party = ORGANIZATION, not PERSON."}
+{"item_id": "p0335", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 marks only the type word வட்டத்தில், not the name கருங்குளம்."}
+{"item_id": "p0338", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a battle (event), not LOCATION. E2 மைசூர் before அரசு is fine (bare place before type word)."}
+{"item_id": "p0341", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 surname with given names before it (v0.1 surname rule); E2 தமிழ் is not PERSON."}
+{"item_id": "p0348", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 part of அல்பான்சோ XIII (v0.1 part-of-longer-name); E2 தமிழ்க் is a language (v0.1 type rule)."}
+{"item_id": "p0354", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 surname with given name ரஜனிபிரபா before it; E2 பெண் is a common noun, not LOCATION."}
+{"item_id": "p0356", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 இந்திய is part of இந்திய ஆட்சிப் பணி (v0.1 part-of-longer-name)."}
+{"item_id": "p0357", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name before it (v0.1 surname rule); correct: தௌலத் ராவ் சிந்தியா."}
+{"item_id": "p0370", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 and E2 are two halves of one name கிருட்டிணா பிரபா."}
+{"item_id": "p0371", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "Buddhism is a religion as belief system, none of the types (v0.1 type rule)."}
+{"item_id": "p0379", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 அரசியல்வாதியும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0383", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 part of இரண்டாம் கிளியோபாட்ரா செலீன் (v0.1 part-of-longer-name)."}
+{"item_id": "p0384", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "Both spans cut names: இராசராச சோழன், மதுராந்தக கண்டராதித்தர்."}
+{"item_id": "p0385", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 IIHF is ORGANIZATION, not LOCATION. E2 சூரிக்கு before நகரில் is fine."}
+{"item_id": "p0388", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 புரூக் is part of dynasty name புரூக் பரம்பரை (v0.1 part-of-longer-name)."}
+{"item_id": "p0390", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 is part of station name சென்னை மத்திய தொடர்வண்டி நிலையம் (v0.1 part-of-longer-name)."}
+{"item_id": "p0391", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a school = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0392", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name காதர் before it (v0.1 surname rule)."}
+{"item_id": "p0395", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 INC is a party = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0398", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name before it (v0.1 surname rule). E2 சித்தூர் before மாவட்டத்தின் itself is fine."}
+{"item_id": "p0408", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "Taoism is a religion as belief system, not ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0410", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 'Buddhism in Pakistan' is a topic, not LOCATION."}
+{"item_id": "p0413", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "Jainism is a religion as belief system, not ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0419", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E2 is part of காங்கிரஸ் காரியக் குழு (v0.1 part-of-longer-name, span changed); it is ORGANIZATION, not LOCATION."}
+{"item_id": "p0422", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 Curtin University = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0424", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": "Span changed to yes: initials பி.ஆர். left out (v0.1 initials rule; initials attached without a space). E1 is first wife of E2."}
+{"item_id": "p0427", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name பெரி before it (v0.1 surname rule)."}
+{"item_id": "p0430", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 தமிழில் is the language (v0.1 type rule)."}
+{"item_id": "p0432", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 INC is a party = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0433", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 leaves out given name முகமது (part of longer name)."}
+{"item_id": "p0437", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 மொரார்ஜி is part of company name மொரார்ஜி கோகுல்தாஸ் (v0.1 part-of-longer-name, span changed); E2 is a company = ORGANIZATION, not PERSON."}
+{"item_id": "p0438", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 Air Hong Kong is a company = ORGANIZATION; E2 is part of ஏர் ஹாங்காங்."}
+{"item_id": "p0440", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a college = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0444", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a people group, not LOCATION."}
+{"item_id": "p0445", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name யூசப் before it; E2 part of சிங்கப்பூர் தேசிய பல்கலைக்கழகம்."}
+{"item_id": "p0446", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E2 surname with given name ஸ்டீவ் before it, and a PERSON not LOCATION."}
+{"item_id": "p0448", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 leaves out அகமட் (v0.1 part-of-longer-name)."}
+{"item_id": "p0454", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E2 செப்புப் is a common noun (v0.1 common-noun rule); E1 copper plates are not LOCATION."}
+{"item_id": "p0456", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 part of தாத்ரா மற்றும் நகர் அவேலி (v0.1 part-of-longer-name)."}
+{"item_id": "p0459", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name இராஜேந்திர before it (v0.1 surname rule)."}
+{"item_id": "p0464", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name டைகர் before it (v0.1 surname rule)."}
+{"item_id": "p0467", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 leaves out full-written patronymic விஸ்வநாதர் (part of longer name; not an initial)."}
+{"item_id": "p0471", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 marks only bracketed surname மல்ஹோத்ரா after the given names (v0.1 surname rule)."}
+{"item_id": "p0476", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 Congress is a party = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0480", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 உலக அழகி here is the titleholder role, a common noun (v0.1 common-noun rule, span changed); not ORGANIZATION."}
+{"item_id": "p0481", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name காதர் before it (v0.1 surname rule)."}
+{"item_id": "p0483", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 part of உம் ஹபீபா ராம்லாவின் (v0.1 part-of-longer-name)."}
+{"item_id": "p0485", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 part of ஜஸ்டிஸ் லீக் ஆஃப் அமெரிக்காவின் (v0.1 part-of-longer-name)."}
+{"item_id": "p0488", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Span changed to yes: initial வி. left out (v0.1 initials rule). Government issued a stamp in his memory; no listed relation."}
+{"item_id": "p0492", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 டாட்டாவின் is the Tata group (company) = ORGANIZATION, not PERSON."}
+{"item_id": "p0494", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 கோயிலாகும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0498", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a seminary college = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0502", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given names before it (v0.1 surname rule)."}
+{"item_id": "p0503", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 பலராமன் is an elephant; animals are none of the types (v0.1 type rule)."}
+{"item_id": "p0509", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 தில்லி உயர்நீதிமன்றம் is the v0.1 part-of-longer-name example."}
+{"item_id": "p0510", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 கலைஞரும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0511", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 சிவன் is a deity, not LOCATION."}
+{"item_id": "p0514", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 கோயிலாகும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0515", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given names before it (v0.1 surname rule)."}
+{"item_id": "p0517", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name சிவாஜி before it (v0.1 surname rule)."}
+{"item_id": "p0520", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name சாம்பசிவம் before it (v0.1 surname rule)."}
+{"item_id": "p0522", "label": "", "span_ok": "no", "type_ok": "no", "notes": "Both spans are common nouns (v0.1 common-noun rule), not LOCATION."}
+{"item_id": "p0523", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name காசிமோ before it (v0.1 surname rule)."}
+{"item_id": "p0527", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 நடிகரும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0537", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 கோயிலாகும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0539", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name ரவீந்திரநாதன் right before it (v0.1 surname rule)."}
+{"item_id": "p0542", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 INC is a party = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0546", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name கிரண் குமார் before it (v0.1 surname rule)."}
+{"item_id": "p0550", "label": "ORG:FOUNDED_BY", "span_ok": "yes", "type_ok": "yes", "notes": "Span changed to yes: initials ஜி. கே. left out (v0.1 initials rule). New party started under E2's leadership."}
+{"item_id": "p0553", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 INC is a party = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0554", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": "Type changed to yes: cathedral treated like a temple run as an institution = ORGANIZATION (v0.1 type rule). Located in Moscow, Russia. Building-vs-institution not fully settled."}
+{"item_id": "p0555", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 part of airport name மஸ்கத் பன்னாட்டு வானுர்தி நிலையம் (v0.1 part-of-longer-name)."}
+{"item_id": "p0569", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 surname with given name before it; E2 BJP is a party = ORGANIZATION, not PERSON."}
+{"item_id": "p0584", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 கோயிலாகும் is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0592", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 Aditya Birla Group is a company = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0595", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 INC is a party = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0600", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name இராக்கி before it (v0.1 surname rule)."}
+{"item_id": "p0601", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a language (v0.1 type rule)."}
+{"item_id": "p0612", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": "Span changed to yes: initials க. து. மு. left out (v0.1 initials rule). Poet belonging to Singapore."}
+{"item_id": "p0616", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 Sterling is a company = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0617", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 part of team name சென்னை சூப்பர் கிங்ஸ் (v0.1 part-of-longer-name)."}
+{"item_id": "p0619", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name ஹிப்துல்லா before it (v0.1 surname rule)."}
+{"item_id": "p0621", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a school = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0623", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 part of தி நியூ இந்தியன் எக்ஸ்பிரஸ் (newspaper company = ORGANIZATION)."}
+{"item_id": "p0626", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname of the father சம்புநாத இசுவைன் (v0.1 surname rule); the person born is not named."}
+{"item_id": "p0629", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E2 part of இந்திய கம்யூனிஸ்ட் கட்சி (மார்க்சிஸ்ட்); both are parties = ORGANIZATION."}
+{"item_id": "p0630", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a festival (v0.1 type rule)."}
+{"item_id": "p0634", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 ஊராட்சி is a common noun (v0.1 common-noun rule)."}
+{"item_id": "p0635", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 கிரேக்கத்தில் means 'in Greek' (language, v0.1 type rule)."}
+{"item_id": "p0638", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E2 part of இந்திய ரயில்வே (v0.1 part-of-longer-name); E1 is a train, not LOCATION."}
+{"item_id": "p0639", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given names before it (v0.1 surname rule)."}
+{"item_id": "p0640", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 Akanksha Foundation is ORGANIZATION, not LOCATION."}
+{"item_id": "p0641", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name ஆர்தர் before it, inside a hall name."}
+{"item_id": "p0644", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 part of அரிசோனா மாநில பல்கலைக்கழகம் (university = ORGANIZATION)."}
+{"item_id": "p0646", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E1 is a job title, a common noun (v0.1 common-noun rule, span changed); not PERSON."}
+{"item_id": "p0647", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 part of தமிழ் மக்கள் விடுதலைப் புலிகள் (v0.1 part-of-longer-name)."}
+{"item_id": "p0648", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 Indian Parliament is ORGANIZATION, not LOCATION."}
+{"item_id": "p0651", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 சாரணியம் (scouting) is an activity/idea, none of the types."}
+{"item_id": "p0661", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 part of நியூ யார்க் பங்குச் சந்தை (v0.1 part-of-longer-name)."}
+{"item_id": "p0662", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name நீல்ஸ் before it (v0.1 surname rule)."}
+{"item_id": "p0664", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 French East India Company = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0665", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 and E2 are parts of one name அசோக் பீம்சந்திரா டிண்டா."}
+{"item_id": "p0666", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 Bata is a company = ORGANIZATION (v0.1 type rule)."}
+{"item_id": "p0669", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 is a festival/event (v0.1 type rule)."}
+{"item_id": "p0673", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E2 part of team name லாஸ் ஏஞ்சல்ஸ் கேலக்ஸி (v0.1 part-of-longer-name)."}
+{"item_id": "p0674", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E1 Coir Board is ORGANIZATION, not LOCATION."}
+{"item_id": "p0675", "label": "", "span_ok": "no", "type_ok": "yes", "notes": "E1 surname with given name மாத்ரிக பிரசாத் before it (v0.1 surname rule)."}
+{"item_id": "p0677", "label": "", "span_ok": "yes", "type_ok": "no", "notes": "E2 New Zealand is LOCATION, not PERSON."}

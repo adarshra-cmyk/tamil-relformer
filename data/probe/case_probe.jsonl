@@ -1,0 +1,26 @@
+{"sentence": "சாம் யாழ்ப்பாணத்தில் வாழ்ந்தார்.", "target": "சாம்", "lemma": "சாம்", "case": "Nom", "src": "plan"}
+{"sentence": "சாம் யாழ்ப்பாணத்தில் வாழ்ந்தார்.", "target": "யாழ்ப்பாணத்தில்", "lemma": "யாழ்ப்பாணம்", "case": "Loc", "src": "plan"}
+{"sentence": "அவன் வீட்டில் வாழ்கிறான்.", "target": "வீட்டில்", "lemma": "வீடு", "case": "Loc", "src": "lemma_deck"}
+{"sentence": "அவன் வீட்டிற்குச் சென்றான்.", "target": "வீட்டிற்குச்", "lemma": "வீடு", "case": "Dat", "src": "lemma_deck"}
+{"sentence": "அவன் வீட்டிலிருந்து வந்தான்.", "target": "வீட்டிலிருந்து", "lemma": "வீடு", "case": "Abl", "src": "lemma_deck"}
+{"sentence": "மாணவன் பள்ளிக்கு சென்றான்.", "target": "மாணவன்", "lemma": "மாணவன்", "case": "Nom", "src": "lemma_deck"}
+{"sentence": "மாணவன் பள்ளிக்கு சென்றான்.", "target": "பள்ளிக்கு", "lemma": "பள்ளி", "case": "Dat", "src": "lemma_deck"}
+{"sentence": "ராமனைப் பார்த்தேன்.", "target": "ராமனைப்", "lemma": "ராமன்", "case": "Acc", "src": "lemma_deck"}
+{"sentence": "குமாருக்கு கொடுத்தேன்.", "target": "குமாருக்கு", "lemma": "குமார்", "case": "Dat", "src": "lemma_deck"}
+{"sentence": "வீட்டில் இருக்கிறான்.", "target": "வீட்டில்", "lemma": "வீடு", "case": "Loc", "src": "lemma_deck"}
+{"sentence": "கத்தியால் வெட்டினான்.", "target": "கத்தியால்", "lemma": "கத்தி", "case": "Ins", "src": "lemma_deck"}
+{"sentence": "நண்பனுடன் சென்றான்.", "target": "நண்பனுடன்", "lemma": "நண்பன்", "case": "Com", "src": "lemma_deck"}
+{"sentence": "கொழும்பிலிருந்து வந்தான்.", "target": "கொழும்பிலிருந்து", "lemma": "கொழும்பு", "case": "Abl", "src": "lemma_deck"}
+{"sentence": "அவனுடைய புத்தகம்.", "target": "அவனுடைய", "lemma": "அவன்", "case": "Gen", "src": "lemma_deck"}
+{"sentence": "குமார் சென்னையில் வேலை செய்கிறார்.", "target": "சென்னையில்", "lemma": "சென்னை", "case": "Loc", "src": "added"}
+{"sentence": "அவள் மதுரைக்கு சென்றாள்.", "target": "மதுரைக்கு", "lemma": "மதுரை", "case": "Dat", "src": "added"}
+{"sentence": "அவர் கண்டியிலிருந்து வந்தார்.", "target": "கண்டியிலிருந்து", "lemma": "கண்டி", "case": "Abl", "src": "added"}
+{"sentence": "கொழும்பு இலங்கையின் பெரிய நகரம்.", "target": "இலங்கையின்", "lemma": "இலங்கை", "case": "Gen", "src": "added"}
+{"sentence": "மக்கள் அரசாங்கத்தை விமர்சித்தனர்.", "target": "அரசாங்கத்தை", "lemma": "அரசாங்கம்", "case": "Acc", "src": "added"}
+{"sentence": "ரவி கமலாவுடன் பேசினார்.", "target": "கமலாவுடன்", "lemma": "கமலா", "case": "Com", "src": "added"}
+{"sentence": "அவன் பேனாவால் எழுதினான்.", "target": "பேனாவால்", "lemma": "பேனா", "case": "Ins", "src": "added"}
+{"sentence": "அவர் திருகோணமலையில் பிறந்தார்.", "target": "திருகோணமலையில்", "lemma": "திருகோணமலை", "case": "Loc", "src": "added"}
+{"sentence": "மாணவர்கள் ஆசிரியருக்கு நன்றி கூறினர்.", "target": "ஆசிரியருக்கு", "lemma": "ஆசிரியர்", "case": "Dat", "src": "added"}
+{"sentence": "டெல்லி இந்தியாவின் தலைநகரம்.", "target": "இந்தியாவின்", "lemma": "இந்தியா", "case": "Gen", "src": "added"}
+{"sentence": "அவள் மட்டக்களப்பிலிருந்து வந்தாள்.", "target": "மட்டக்களப்பிலிருந்து", "lemma": "மட்டக்களப்பு", "case": "Abl", "src": "added"}
+{"sentence": "சாம் யாழ்ப்பாணத்தில் பேசினார்.", "target": "யாழ்ப்பாணத்தில்", "lemma": "யாழ்ப்பாணம்", "case": "Loc", "src": "lemma_deck"}

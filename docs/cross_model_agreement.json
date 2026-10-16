@@ -1,0 +1,54 @@
+{
+ "n": 300,
+ "flagged": 4,
+ "n_labels": 296,
+ "raw": 0.956081081081081,
+ "kappa": 0.9492696303327532,
+ "top_disagreements": [
+  [
+   "ORG:HEADQUARTERS",
+   "NO_RELATION",
+   3
+  ],
+  [
+   "PER:MEMBER_OF",
+   "NO_RELATION",
+   2
+  ],
+  [
+   "PER:BIRTH_PLACE",
+   "NO_RELATION",
+   2
+  ],
+  [
+   "PER:EMPLOYER",
+   "PER:EDUCATED_AT",
+   1
+  ],
+  [
+   "LOC:COUNTRY",
+   "NO_RELATION",
+   1
+  ],
+  [
+   "NO_RELATION",
+   "PER:PARENT",
+   1
+  ],
+  [
+   "LOC:LOCATED_IN",
+   "NO_RELATION",
+   1
+  ],
+  [
+   "PER:PARENT",
+   "NO_RELATION",
+   1
+  ],
+  [
+   "PER:NATIONALITY",
+   "NO_RELATION",
+   1
+  ]
+ ]
+}

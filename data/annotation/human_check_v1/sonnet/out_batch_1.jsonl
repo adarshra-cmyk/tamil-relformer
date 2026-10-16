@@ -1,0 +1,100 @@
+{"item_id": "h101", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h102", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h103", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h104", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h105", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h106", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h107", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Founder relation only implied by possessive"}
+{"item_id": "h108", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": "Base is Kolkata in West Bengal; E2 is the state"}
+{"item_id": "h109", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h110", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h111", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h112", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": "Born at Mukawa, Hokkaido, Japan; E2 is the country"}
+{"item_id": "h113", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h114", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h115", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h116", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h117", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": "Postgraduate fellowship at Stanford"}
+{"item_id": "h118", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h119", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h120", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h121", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h122", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": "Elected on behalf of INC"}
+{"item_id": "h123", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h124", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h125", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h126", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": "Netherlands-based foundation"}
+{"item_id": "h127", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h128", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h129", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h130", "label": "PER:SIBLING", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h131", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h132", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": "Adjective describes the territory the lake is in"}
+{"item_id": "h133", "label": "ORG:FOUNDED_BY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h134", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h135", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": "Monument described as India's"}
+{"item_id": "h136", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h137", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h138", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Came from Pune; residence not stated"}
+{"item_id": "h139", "label": "ORG:HEADQUARTERS", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h140", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h141", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": "Also grew up there (RESIDENCE)"}
+{"item_id": "h142", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h143", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h144", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Adjective modifies viceroy"}
+{"item_id": "h145", "label": "PER:SIBLING", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h146", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h147", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h148", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h149", "label": "PER:DEATH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h150", "label": "PER:RESIDENCE", "span_ok": "yes", "type_ok": "yes", "notes": "Migrated to UK"}
+{"item_id": "h151", "label": "PER:MEMBER_OF", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h152", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h153", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": "Kingdom in southern Kerala"}
+{"item_id": "h154", "label": "PER:RESIDENCE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h155", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h156", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h157", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h158", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h159", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h160", "label": "PER:RESIDENCE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h161", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Contested as TNA candidate under TELO; membership not stated"}
+{"item_id": "h162", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Adjective Indian modifies the state, not the studio"}
+{"item_id": "h163", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h164", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h165", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h166", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h167", "label": "PER:NATIONALITY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h168", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h169", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h170", "label": "PER:SIBLING", "span_ok": "yes", "type_ok": "yes", "notes": "Brothers inferred from 'their father'"}
+{"item_id": "h171", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h172", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h173", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": "Native of Mumbai; birth not stated"}
+{"item_id": "h174", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h175", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h176", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h177", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h178", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h179", "label": "PER:SPOUSE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h180", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h181", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h182", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h183", "label": "PER:RESIDENCE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h184", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h185", "label": "PER:EDUCATED_AT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h186", "label": "", "span_ok": "no", "type_ok": "no", "notes": "E2 cuts the name; correct span: மும்பை பாபா அணு ஆராய்ச்சி நிலையத்தில். Otherwise PER:EMPLOYER"}
+{"item_id": "h187", "label": "PER:SIBLING", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h188", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h189", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h190", "label": "PER:EMPLOYER", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h191", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h192", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h193", "label": "LOC:LOCATED_IN", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h194", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h195", "label": "PER:PARENT", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h196", "label": "PER:BIRTH_PLACE", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h197", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h198", "label": "PER:SIBLING", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h199", "label": "NO_RELATION", "span_ok": "yes", "type_ok": "yes", "notes": ""}
+{"item_id": "h200", "label": "LOC:COUNTRY", "span_ok": "yes", "type_ok": "yes", "notes": ""}

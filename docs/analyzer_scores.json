@@ -1,0 +1,65 @@
+[
+ {
+  "analyzer": "Stanza",
+  "mentions": "all",
+  "n": 5334,
+  "lemma": 0.882,
+  "case": 0.905
+ },
+ {
+  "analyzer": "Stanza",
+  "mentions": "inflected",
+  "n": 1741,
+  "lemma": 0.736,
+  "case": 0.923
+ },
+ {
+  "analyzer": "Stanza",
+  "mentions": "exact",
+  "n": 3593,
+  "lemma": 0.954,
+  "case": 0.896
+ },
+ {
+  "analyzer": "ThamizhiMorph",
+  "mentions": "all",
+  "n": 5334,
+  "lemma": 0.754,
+  "case": 0.763
+ },
+ {
+  "analyzer": "ThamizhiMorph",
+  "mentions": "inflected",
+  "n": 1741,
+  "lemma": 0.569,
+  "case": 0.549
+ },
+ {
+  "analyzer": "ThamizhiMorph",
+  "mentions": "exact",
+  "n": 3593,
+  "lemma": 0.844,
+  "case": 0.866
+ },
+ {
+  "analyzer": "matcher alias, else Stanza",
+  "mentions": "all",
+  "n": 5334,
+  "lemma": 0.965,
+  "case": "-"
+ },
+ {
+  "analyzer": "matcher alias, else Stanza",
+  "mentions": "inflected",
+  "n": 1741,
+  "lemma": 0.963,
+  "case": "-"
+ },
+ {
+  "analyzer": "matcher alias, else Stanza",
+  "mentions": "exact",
+  "n": 3593,
+  "lemma": 0.965,
+  "case": "-"
+ }
+]
